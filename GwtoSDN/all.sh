@@ -1,0 +1,10 @@
+./24Isp-26GwArp.sh
+./26Gw-24IspArp.sh
+./38v1008-26GwArp.sh
+./38v1004-26GwArp.sh
+./38v1008-24Isp.sh
+./38v1004-24Isp.sh
+./26Gw-38v1008Arp.sh
+./26Gw-38v1004Arp.sh
+./24Isp-38i118.sh
+./24Isp-38i210.sh
