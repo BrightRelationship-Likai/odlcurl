@@ -4,7 +4,7 @@ curl -X PUT -H 'Accept: application/json, text/plain, */*' -H 'Accept-Language: 
             "id": "31",
 	    "cookie":"10",
             "match": {
-                "in-port": "openflow:147059310694:30",
+                "in-port": "openflow:147059310694:20",
 		"ip-match": {
                     "ip-proto": "ipv4"
                 },

@@ -31,7 +31,7 @@ curl -X PUT -H 'Accept: application/json, text/plain, */*' -H 'Accept-Language: 
                                 {
                                     "order": "3",
                                     "output-action": {
-                                        "output-node-connector": "openflow:147059310694:30"
+                                        "output-node-connector": "openflow:147059310694:20"
                                     }
                                 }
                             ]
